@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1235" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/address_field_background.xml" value="0.1975" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/coordinates_background.xml" value="0.1645" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1975" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/ic_location.xml" value="0.124" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/ic_location_24.xml" value="0.17" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/drawable/static_maps_image_clip.xml" value="0.1655" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout-v31/geo_object_item.xml" value="0.15625" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.196875" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.190625" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout/activity_scrolling.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout/content_scrolling.xml" value="1.525" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout/fragment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout/fragment_item_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/layout/geo_object_item.xml" value="0.536" />
+        <entry key="..\:/Users/kiril/AndroidStudioProjects/StaticMapsApi/app/src/main/res/xml/styles.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
